@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\XSETcourse\LoadRunner\HW_12\UC06_user_registration
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\xsetcourse\loadrunner\hw_12\uc06_user_registration\\logfile.log
+c:\xsetcourse\loadrunner\hw_12\uc06_user_registration\\combined_UC06_user_registration.c
+c:\xsetcourse\loadrunner\hw_12\uc06_user_registration\\pre_cci.c

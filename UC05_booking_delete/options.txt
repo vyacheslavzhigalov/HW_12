@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\XSETcourse\LoadRunner\HW_12\UC05_booking_delete
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\xsetcourse\loadrunner\hw_12\uc05_booking_delete\\logfile.log
+c:\xsetcourse\loadrunner\hw_12\uc05_booking_delete\\combined_UC05_booking_delete.c
+c:\xsetcourse\loadrunner\hw_12\uc05_booking_delete\\pre_cci.c

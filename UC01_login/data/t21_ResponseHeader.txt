@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public,max-age=86400
+Content-Disposition: attachment
+Content-Length: 14485862
+Content-Security-Policy: default-src 'none'
+Content-Type: application/zip
+Etag: "1d3918c"
+Server: downloads
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 0
+Date: Sat, 01 Jun 2024 04:39:12 GMT
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Last-Modified: Thu, 05 Oct 2023 00:56:47 GMT
+Connection: keep-alive
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,quic=":443"; ma=2592000; v="46"
+Vary: Origin
+

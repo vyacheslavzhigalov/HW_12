@@ -1,0 +1,2204 @@
+[API Trapper      (2560:1edc)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (2118: dec)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (2118:2e40)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2118:2e40)] Load Network Traffic Analyzers:
+[Network Analyzer (2118:2e40)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2118:2e40)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2118:2e40)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2118:2e40)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2118:2e40)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2118:2e40)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2118:2e40)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2118:2e40)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2118: 924)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[API Trapper      ( b8c:2cc4)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (2118:2e40)] Establish Listener @ 127.0.0.1:18863
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:18863   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 23 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 1_transaction [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/"   
+[Network Analyzer (2118: 924)]   (Sid:  4) Client -> Server @ : 517 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  4) Server -> Client : 665 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:1ad4)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:1610)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118:1610)] SSLAccept(ssl_id = 2036544761696 = 000001DA2B86EF60) Failed, ctx = 000001DA2B81CA20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118:1610)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2118:1ad4)] SSLAccept(ssl_id = 2036544518784 = 000001DA2B833A80) Failed, ctx = 000001DA2B81CA20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118:1ad4)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 7f4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (2118: 7f4)] SSLAccept(ssl_id = 2036544410240 = 000001DA2B819280) Failed, ctx = 000001DA2B81CA20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2118: 7f4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: cf4)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (2118: cf4)] SSLAccept(ssl_id = 2036544410240 = 000001DA2B819280) Failed, ctx = 000001DA2B81CA20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2118: cf4)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:26e0)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (2118:26e0)] SSLAccept(ssl_id = 2036544410240 = 000001DA2B819280) Failed, ctx = 000001DA2B81CA20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2118:26e0)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (2118:1ba0)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (2118:1ba0)] SSLAccept(ssl_id = 2036544410240 = 000001DA2B819280) Failed, ctx = 000001DA2B81CA20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2118:1ba0)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:22ec)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:213c)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 108.177.14.95:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: a94)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:213c)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2118:1e50)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:1308)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 824)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2d4c)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2320)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2d4c)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:111c)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/header.html"   
+[Network Analyzer (2118: 924)]   (Sid:  3) Client -> Server @ : 554 bytes (Service=HTTP)
+[Web Request      (2118: 924)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (2118: 924)]   (Sid:  4) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  3) Server -> Client : 1009 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: c58)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (2118: 924)] "GET /favicon.ico"   
+[Network Analyzer (2118: 924)]   (Sid:  3) Client -> Server @ : 454 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  3) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  4) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118:140c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2118:2504)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.11:80   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: c58)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 24) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /canonical.html"   
+[Network Analyzer (2118: 924)]   (Sid: 23) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.11:80   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 25) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 23) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:22ec)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118: a94)] SSLAccept(ssl_id = 2036544806240 = 000001DA2B879D60) Failed, ctx = 000001DA15B91D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118: a94)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (2118: 924)]   (Sid:  3) Client -> Server @ : 481 bytes (Service=HTTP)
+[Net An. Error    (2118:2504)] SSLAccept(ssl_id = 2036546316432 = 000001DA2B9EA890) Failed, ctx = 000001DA23113B20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 16 bytes 
+[Net An. Error    (2118:2504)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  3) Server -> Client : 899 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 824)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /v1/tiles"   
+[Network Analyzer (2118: 924)]   (Sid: 11) Client -> Server @ : 304 bytes (SSL)(Service=HTTP)
+[Web Request      (2118: 924)] "GET /chains/remote-settings.content-signature.mozilla.org-2024-06-29-17-33-44.chain"   
+[Network Analyzer (2118: 924)]   (Sid: 13) Client -> Server @ : 366 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (2118: 924)]   (Sid: 26) Client -> Server @ : 482 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid: 26) Server -> Client : 4488 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.11:80   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 13) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 13) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 13) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 13) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 13) Server -> Client : 354 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/home.html"   
+[Network Analyzer (2118: 924)]   (Sid:  3) Client -> Server @ : 602 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  3) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 24) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 28) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid: 25) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.11:80   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.11:80   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 34) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2118: 924)]   (Sid: 32) Client -> Server @ : 606 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 29) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 28) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 32) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (2118:2e1c)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 29) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 34) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /canonical.html"   
+[Network Analyzer (2118: 924)]   (Sid: 35) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 35) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 11) Server -> Client : 138 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 28) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 29) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 34) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (2118: 924)]   (Sid: 26) Client -> Server @ : 513 bytes (Service=HTTP)
+[Network Analyzer (2118:1e50)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 26) Server -> Client : 977 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 28) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e68)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.11:80   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 74.125.205.94:80   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /wr2"   
+[Network Analyzer (2118: 924)]   (Sid: 38) Client -> Server @ : 459 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 38) Server -> Client : 231 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 34) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 29) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent home [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 32) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 39) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 39) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 26) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent home [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.58:80   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (2118: 924)] "GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru"   
+[Network Analyzer (2118: 924)]   (Sid: 15) Client -> Server @ : 413 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2320)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:1308)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:111c)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.58:80   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (2118:140c)] SSLAccept(ssl_id = 2036546341072 = 000001DA2B9F08D0) Failed, ctx = 000001DA15B91D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Net An. Error    (2118:140c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2118:2e68)] SSLAccept(ssl_id = 2036546347232 = 000001DA2B9F20E0) Failed, ctx = 000001DA23113B20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2118:2e1c)] SSLAccept(ssl_id = 2036546297952 = 000001DA2B9E6060) Failed, ctx = 000001DA2B81CA20, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Net An. Error    (2118:2e68)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2118:2e1c)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 6 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 39) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 15) Server -> Client : 940 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /update/6/Firefox/126.0.1/20240526221752/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/ISET%3ASSE4_2%2CMEM%3A15792/default/default/update.xml?force=1"   
+[Network Analyzer (2118: 924)]   (Sid: 17) Client -> Server @ : 492 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru"   
+[Network Analyzer (2118: 924)]   (Sid: 16) Client -> Server @ : 495 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /"   
+[Network Analyzer (2118: 924)]   (Sid: 21) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid: 39) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid: 16) Server -> Client : 151 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 17) Server -> Client : 453 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 21) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]    (Sid: 21) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (2118: 924)]   (Sid: 21) Server -> Client : 20 bytes (SSL) (Service=WEBS)
+[Network Analyzer (2118: 924)]   (Sid: 21) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent data_input [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /success.txt?ipv4"   
+[Network Analyzer (2118: 924)]   (Sid: 42) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 42) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 35.201.103.21:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2ce8)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.98.75.36:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /canonical.html"   
+[Network Analyzer (2118: 924)]   (Sid: 35) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 39) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: bd8)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 39) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 46) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 45) Connection Terminated (by Server)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /cgi-bin/login.pl?username=&password=&getInfo=true"   
+[Network Analyzer (2118: 924)]   (Sid: 47) Client -> Server @ : 640 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid: 47) Server -> Client : 2665 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 47) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: c20)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: c20)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (2118: 924)] "GET /canonical.html"   
+[Network Analyzer (2118: 924)]   (Sid: 50) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2ce8)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/profileValidate.js"   
+[Network Analyzer (2118: 924)]   (Sid: 47) Client -> Server @ : 517 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (2118: bd8)] SSLAccept(ssl_id = 2036402315040 = 000001DA23095F20) Failed, ctx = 000001DA2B8355D0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (2118: 924)]   (Sid: 50) Connection Terminated (by Client)
+[Net An. Error    (2118: bd8)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 34) Connection Terminated (by Client)
+[Web Request      (2118: 924)] "GET /"   
+[Network Analyzer (2118: 924)]   (Sid: 49) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 47) Server -> Client : 11602 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 49) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 47) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]    (Sid: 49) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (2118: 924)]   (Sid: 49) Server -> Client : 20 bytes (SSL) (Service=WEBS)
+[Network Analyzer (2118: 924)]   (Sid: 49) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid: 51) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[User action                 ] EndTransactionEvent data_input [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent data_input2 [Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.58:80   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 48) Connection Terminated (by Client)
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 52) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 212.188.39.58:80   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /"   
+[Network Analyzer (2118: 924)]   (Sid: 53) Client -> Server @ : 461 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 54)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:24d8)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid: 52) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 53) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 56)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (2118: 924)]   (Sid: 56) Client -> Server @ : 542 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 56) Server -> Client : 1057 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:150c)]   (Sid: 55) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 56) Connection Terminated (by Server)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 39) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:24d8)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Net An. Error    (2118:150c)] SSLAccept(ssl_id = 2036544254288 = 000001DA2B7F3150) Failed, ctx = 000001DA2B8875B0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118:150c)]   (Sid: 55) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 54) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 55) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2f64)]   (Sid: 57) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 58)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 59)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2f64)]   (Sid: 57) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 60)  PROXIED!
+[Web Request      (2118: 924)] "GET /"   
+[Network Analyzer (2118: 924)]   (Sid: 57) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 8bc)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 61)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 8bc)]   (Sid: 59) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: b34)]   (Sid: 58) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (2118: 924)] "POST /dns-query"   
+[Network Analyzer (2118: 924)]   (Sid: 59) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: b34)]   (Sid: 58) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /"   
+[Network Analyzer (2118: 924)]   (Sid: 58) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e70)]   (Sid: 60) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e70)]   (Sid: 60) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /chains/202402/normandy.content-signature.mozilla.org-2024-07-04-09-28-31.chain?cachebust=2017-06-13-21-06"   
+[Network Analyzer (2118: 924)]   (Sid: 60) Client -> Server @ : 522 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 59) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2f70)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2f70)]   (Sid: 61) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 60) Server -> Client : 170 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 57) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 58) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 58) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (2118: 924)]   (Sid: 58) Client -> Server @ : 117 bytes (SSL)(Service=WEBS)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 57) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 58) Server -> Client : 115 bytes (SSL) (Service=WEBS)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 61) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 62)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (2118: 924)]   (Sid: 62) Client -> Server @ : 883 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 62) Server -> Client : 1455 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 62) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent data_input2 [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 62) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 63)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 64)  PROXIED!
+[Web Request      (2118: 924)] "POST /dns-query"   
+[Network Analyzer (2118: 924)]   (Sid: 59) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:1fe4)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid: 59) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 65)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 28c)]   (Sid: 64) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 66)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (2118:1fe4)] SSLAccept(ssl_id = 2036544229648 = 000001DA2B7ED110) Failed, ctx = 000001DA15B91D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118:1fe4)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (2118: 28c)] SSLAccept(ssl_id = 2036544278928 = 000001DA2B7F9190) Failed, ctx = 000001DA15B91D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (2118: 28c)]   (Sid: 64) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:1440)]   (Sid: 66) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 80c)]   (Sid: 65) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 63) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 64) Connection Terminated (by Client)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 67)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 80c)]   (Sid: 65) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118:1440)]   (Sid: 66) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /canonical.html"   
+[Network Analyzer (2118: 924)]   (Sid: 67) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /dns-query"   
+[Network Analyzer (2118: 924)]   (Sid: 65) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /dns-query"   
+[Network Analyzer (2118: 924)]   (Sid: 66) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 67) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 65) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 66) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 68)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 69)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:13dc)]   (Sid: 68) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 70)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:13dc)]   (Sid: 68) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /success.txt?ipv4"   
+[Network Analyzer (2118: 924)]   (Sid: 70) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:1b4c)]   (Sid: 69) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2118: 924)]   (Sid: 70) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent account [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:1b4c)]   (Sid: 69) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 53) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 71)  PROXIED!
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 72)  PROXIED!
+[Web Request      (2118: 924)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (2118: 924)]   (Sid: 72) Client -> Server @ : 739 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 72) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 72) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 68) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid: 69) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 72) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 67) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 71) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 60) Connection Terminated (by Client)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 73)  PROXIED!
+[Web Request      (2118: 924)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (2118: 924)]   (Sid: 73) Client -> Server @ : 735 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 74)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 70) Connection Terminated (by Client)
+[Web Request      (2118: 924)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (2118: 924)]   (Sid: 74) Client -> Server @ : 730 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 73) Server -> Client : 1745 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 73) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 74) Server -> Client : 1155 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 74) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 73) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid: 74) Connection Terminated (by Server)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    (2118:2e40)] Request Connection: Remote Server @ 2600:1901:0:38D7:0:0:0:0: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 75)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (2118: 924)]   (Sid: 75) Client -> Server @ : 642 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 75) Server -> Client : 1025 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 76)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 77)  PROXIED!
+[Web Request      (2118: 924)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (2118: 924)]   (Sid: 75) Client -> Server @ : 644 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 75) Server -> Client : 1031 bytes  (Service=HTTP)
+[Web Request      (2118: 924)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (2118: 924)]   (Sid: 76) Client -> Server @ : 642 bytes (Service=HTTP)
+[Web Request      (2118: 924)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (2118: 924)]   (Sid: 77) Client -> Server @ : 642 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 76) Server -> Client : 987 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 77) Server -> Client : 1050 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 78)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 75) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid: 76) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid: 77) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 78) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent account [User action                 ] StartTransactionEvent signoff [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 79)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (2118: 924)]   (Sid: 79) Client -> Server @ : 754 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 79) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 79) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2118: 924)]   (Sid: 79) Client -> Server @ : 603 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118:2e40)] Address lookup for LAPTOP-K5T05FQR = 192.168.1.74
+[Network Analyzer (2118:2e40)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 80)  PROXIED!
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "GET /WebTours/home.html"   
+[Network Analyzer (2118: 924)]   (Sid: 80) Client -> Server @ : 700 bytes (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 80) Server -> Client : 195 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 79) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid: 79) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /dns-query"   
+[Network Analyzer (2118: 924)]   (Sid: 59) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /dns-query"   
+[Network Analyzer (2118: 924)]   (Sid: 65) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2118: 924)] "POST /dns-query"   
+[Network Analyzer (2118: 924)]   (Sid: 66) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 66) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 65) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 59) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent signoff [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid: 80) Connection Terminated (by Server)
+[Network Analyzer (2118: 924)]   (Sid: 79) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent 1_transaction [Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2118: 924)]   (Sid:  2) Client -> Server @ : 1 bytes 

@@ -1,0 +1,11 @@
+POST /wr2 HTTP/1.1
+Content-Type: application/ocsp-request
+Priority: u=4
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: o.pki.goog
+Content-Length: 84
+

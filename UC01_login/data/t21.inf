@@ -1,0 +1,11 @@
+[t21]
+FileName1=t21_4.10.2710.0-win-x64.zip
+URL1=https://r2---sn-jvhnu5g-n8vy.gvt1.com/edgedl/widevine-cdm/4.10.2710.0-win-x64.zip?cms_redirect=yes&mh=R8&mip=82.209.106.133&mm=28&mn=sn-jvhnu5g-n8vy&ms=nvh&mt=1717220187&mv=u&mvi=2&pcm2cms=yes&pl=24&rmhost=r8---sn-jvhnu5g-n8vy.gvt1.com&shardbypass=sd&smhost=r2---sn-jvhnu5g-n8ve7.gvt1.com
+Total=1
+ContentType=application/zip
+SnapshotXmlFile=snapshot_21.xml
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
